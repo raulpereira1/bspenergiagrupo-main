@@ -1,0 +1,48 @@
+.Dialise{
+    position: absolute;
+    
+}
+.DialiseVideo {
+    height: 90vh;
+    width: 206vh;
+    background-color: #FFFFFF;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 100vh 90vh;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+}
+
+.Text {
+    margin: 20px;
+    grid-column: 1 / 2;
+    text-align: left;
+}
+.Text h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 1.5rem;
+}
+.Video{
+    grid-column: 2 / 2;
+    align-items: center;
+    padding-left: 30px;
+}
+
+.List {
+    background-color: 	#073f51;
+    border: 1px solid #000000;
+    color: #FFFFFF;
+    padding: 10px;
+    
+}
+
+.List h2 {
+    text-align: center;
+    margin: 5px;
+}
+
+.List ul {
+    font-size: 1.1rem;
+    text-shadow: 3px  #000000;
+}

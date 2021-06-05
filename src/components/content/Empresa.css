@@ -1,0 +1,75 @@
+
+.Box {
+ display: flex;
+box-sizing: border-box;
+color: #FFFFFF;
+
+    }
+    .Empresa {
+        background-color: aliceblue;
+        height: 100vh;
+        max-height: 100vh;
+        font-size: 1.2rem;
+        padding: 10px;
+        position: absolute;
+        overflow: hidden;
+
+        
+    }
+    
+h1 {
+    font-size: 1.1rem;
+}
+    .Missao {
+        text-align: center;
+        padding: 25px;
+        height: 25vh;
+        width: 50vh;
+        max-height: 300px;
+        max-width: 300px;
+        border-color: #000000;
+        border-radius: 10%;
+        border-style: solid;
+        margin: 20px;
+        background-color:	#a99a91;
+    }
+
+    .Visao {
+        text-align: center;
+        padding: 25px;
+        height: 25vh;
+        width: 50vh;
+        max-height: 300px;
+        max-width: 300px;
+        border-color: #000000;
+        border-radius: 10%;
+        border-style: solid;
+        margin: 20px;
+        background-color:	#a99a91;
+    }
+
+    .Valores {
+        text-align: center;
+        padding: 25px;
+        height: 25vh;
+        width: 50vh;
+        max-height: 300px;
+        max-width: 300px;
+        border-color: #000000;
+        border-radius: 10%;
+        border-style: solid;
+        margin: 20px;
+        background-color:	#a99a91;
+    }
+.Missao:hover {
+    background: #ff4d00 ;
+    color: #000000;
+}
+.Visao:hover {
+    background: #ff4d00 ;
+    color: #000000;
+}
+.Valores:hover {
+    background: #ff4d00 ;
+    color: #000000;
+}

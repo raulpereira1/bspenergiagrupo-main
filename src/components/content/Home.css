@@ -1,0 +1,44 @@
+.Home {
+    display: grid;
+    grid-template-columns: 130vh 30vh;
+    grid-template-rows: 55vh;
+    background-color: #f6eeff;
+    padding: 10px;
+    font-size: 1.2rem;
+}
+
+.Home .Text {
+    grid-column: 1/ 2;
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.4rem;
+}
+
+.Home .slide {
+    grid-column: 2/ 2;
+    max-height: 30px;
+    max-width: 30px;
+}
+
+.Home1 {
+    background-color: #bdaca2;
+    padding: 10px;
+    grid-template-columns: 150vh;
+    display: grid;
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1.1rem;
+
+}
+
+.Home1 h1{
+    text-decoration: underline;
+    font-size: 1.4rem;
+   
+    
+}
+.Home1 p {
+    text-align: center;
+    margin: 5px;
+    padding-bottom: 50px;
+}

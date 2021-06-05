@@ -1,0 +1,9 @@
+:root {
+    background-color: 	#ff4d00 ;
+    /* clip-path: polygon(0% 0%, 0 100%, 0 80%, 0 35%, 100% 33%, 100% 60%, 0 61%, 0 100%, 100% 100%, 100% 0%); */
+    height: 100vh;
+    max-height: 600px;
+    font-family: 'Roboto', sans-serif;
+    /* display: flex; */
+}
+
